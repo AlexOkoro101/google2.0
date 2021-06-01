@@ -38,7 +38,7 @@ function Header() {
                     <SearchIcon className="h-6 text-blue-500 hidden sm:inline-flex"></SearchIcon>
                     <button hidden type="submit" onClick={search}>Search</button>
                 </form>
-                <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9"></Avatar>
+                <Avatar className="ml-auto" url="https://avatars.githubusercontent.com/u/24982752?s=400&u=5083fc01ede577239d917593302330f5e5a48b65&v=4"></Avatar>
             </div>
             <HeaderOptions></HeaderOptions>
         </header>
